@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\Intel\Desktop\C_C++\Cclass\aprl7\main.c(35,1): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  aprl7.vcxproj -> C:\Users\Intel\Desktop\C_C++\Cclass\x64\Debug\aprl7.exe
